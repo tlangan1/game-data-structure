@@ -1,6 +1,6 @@
 ## Notes:
 
-- See the Github repo [here](https://github.com/larymak/Python-project-Scripts/tree/main) where Hillary Nyakundi created a repo for programmers to contribute Python projects of all types. Jason will probably find this interesting.
+- See the Github repo [here](https://github.com/larymak/Python-project-Scripts/tree/main) where Hillary Nyakundi created a repo for programmers to contribute Python projects of all types. Jason will probably find this interesting. I cloned it into the parallel directory called "Python-project-Scripts".
 
 ## Jason's game idea:
 
@@ -15,3 +15,4 @@
   - the enter key maps correctly
 
 - See [this](https://github.com/microsoft/vscode/issues/112405) discussion which implies it has something to do with VSCode's integrated terminal. That is not true! It is because it is running in a bash terminal. I should try running it in a cmd terminal.
+- I used a bit of a `kludge` to create a project that works in both shells.
